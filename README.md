@@ -12,6 +12,7 @@
 - 💻 Frontend developer who loves building clean, fast interfaces with **React**
 - ✍️ Building **[WriteReady](https://writeready.uz)**, an AI-powered IELTS writing assessment platform
 - 🌐 Portfolio: **[islomdev.uz](https://islomdev.uz)**
+- 🔗 Links: **[links.islomdev.uz](https://links.islomdev.uz)**
 - 🗣️ Tajik · Uzbek · English
 
 ---
