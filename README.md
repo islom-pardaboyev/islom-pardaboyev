@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://islomdev.uz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Building+WriteReady+%E2%9C%8D%EF%B8%8F;Based+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Firebase;Building+WriteReady+%E2%9C%8D%EF%B8%8F;Based+in+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
   </a>
 </p>
 
